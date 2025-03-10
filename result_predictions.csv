@@ -1,0 +1,4 @@
+ID,Ngày giao dịch,Số tiền,Loại giao dịch_Chuyển khoản,Loại giao dịch_Mua hàng trực tuyến,Loại giao dịch_Nạp tiền,Loại giao dịch_Rút tiền,Loại giao dịch_Thanh toán hóa đơn,Địa điểm_Cần Thơ,Địa điểm_Hà Nội,Địa điểm_Hải Phòng,Địa điểm_TP.HCM,Địa điểm_Đà Nẵng,Dự đoán
+0,1759449600.0,5000000,0,False,0,True,False,0,True,0,False,False,Gian lận
+0,1762128000.0,100000,0,False,0,False,True,0,False,0,True,False,Hợp lệ
+0,1764720000.0,2500000,0,True,0,False,False,0,False,0,False,True,Gian lận
