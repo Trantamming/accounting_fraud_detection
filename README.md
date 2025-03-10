@@ -9,6 +9,7 @@
 Sử dụng lệnh dưới để cài đặt package:
   pip install accounting-fraud-detector
 
+## Chuẩn bị dữ liệu trên file .csv phải giống như vầy:
 ![image](https://github.com/user-attachments/assets/ebc6d4e2-3923-4cf6-a972-6a0a67d514dd)
 
 
