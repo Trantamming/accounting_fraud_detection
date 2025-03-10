@@ -1,4 +1,4 @@
-# Fraud Detection AI Package
+# Accounting Fraud Detection AI Package - Phát hiện gian lận kế toán bằng AI
 
 ## Tác giả: Trần Minh Tâm
 
