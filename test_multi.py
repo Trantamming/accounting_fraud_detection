@@ -2,7 +2,7 @@ from fraud_detection.predict import predict_fraud
 import pandas as pd
 
 # Đọc file CSV với dấu phân cách là dấu chấm phẩy
-df = pd.read_csv("C:/Users/ADMIN/Documents/Du_lieu_du_doan_gian_lan_ke_toan.csv", delimiter=";")
+df = pd.read_csv("Du_lieu_du_doan_gian_lan_ke_toan.csv", delimiter=";")
 
 # In ra danh sách các cột trong DataFrame để kiểm tra
 print(df.columns)
