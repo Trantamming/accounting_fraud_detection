@@ -1,6 +1,6 @@
 # Fraud Detection AI Package
 
-## Taá gia: Tran Minh Tam
+## Tác giả: Trần Minh Tâm
 
 ## Mô tả:
 Đây là package AI phát hiện gian lận kế toán dựa trên các giao dịch. Sử dụng mô hình RandomForest để dự đoán gian lận từ các giao dịch.
