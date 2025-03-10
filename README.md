@@ -39,5 +39,7 @@ Sử dụng lệnh dưới để cài đặt package:
   print(result)
   result.to_csv("result_predictions.csv", index=False)  # Lưu kết quả dự đoán vào file CSV mới
 
-
+3. **API**
+  ```python
+  python fraud_detection\api.py 
 
